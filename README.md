@@ -2,3 +2,4 @@
 
 Add a new feature feature-A.
 Add fix-B.
+Add feature-C

@@ -1,5 +1,1 @@
-# How to use the git
-
-Add a new feature feature-A.
-Add fix-B.
-Add feature-C
+这个目录用于存放 blog 中使用的图片。
